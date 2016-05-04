@@ -1,4 +1,4 @@
-package com.badrit.MacAddress;
+package com.plugins.getmac;
 
 import org.apache.cordova.CallbackContext;
 import org.apache.cordova.CordovaPlugin;
@@ -96,7 +96,7 @@ public class getmac extends CordovaPlugin {
             }
         } catch (Exception ex) {
         }
-        return "err";
+        return "error";
 		
 		
 

@@ -1,6 +1,10 @@
 {
   "name": "getmac-marshmallow",
+<<<<<<< HEAD
+  "version": "0.1.1",
+=======
   "version": "0.1.0",
+>>>>>>> 613226087cd7b219dde313834712f00382d682c1
   "description": "Cordova MacAddress Plugin for android 6 and IOS",
   "cordova": {
     "id": "getmac-marshmallow",
@@ -11,7 +15,11 @@
   },
   "repository": {
     "type": "git",
+<<<<<<< HEAD
+    "url": "https://github.com/navidmalekan/getmac.git"
+=======
     "url": "https://github.com/navidmalekan/getmac"
+>>>>>>> 613226087cd7b219dde313834712f00382d682c1
   },
   "keywords": [
     "cordova",
@@ -20,5 +28,19 @@
     "cordova-android",
     "cordova-ios"
   ],
+<<<<<<< HEAD
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/navidmalekan/getmac/issues"
+  },
+  "homepage": "https://github.com/navidmalekan/getmac#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Navid Malekan <navid@malekan.net> (http://malekan.net)"
+}
+=======
   "license": "MIT"
 }
+>>>>>>> 613226087cd7b219dde313834712f00382d682c1
